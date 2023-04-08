@@ -1,0 +1,109 @@
+.first {
+    text-align: center;
+}
+
+body {
+    margin-left: 30px;
+    margin-right: 20px;
+    padding: 0;
+}
+
+.name {
+    width: 100%;
+}
+
+.name1 {
+    display: inline-block;
+    width: 5%;
+    margin-left: 50px;
+}
+
+.name2 {
+    display: inline-block;
+    width: 7%;
+}
+
+.name3 {
+    display: inline-block;
+    width: 45%;
+    border-bottom: 1px solid black;
+    margin-right: 50px;
+    margin-left: 0px;
+}
+
+.name4 {
+    display: inline-block;
+    width: 15%;
+    border-bottom: 1px solid black;
+}
+
+.date {
+    width: 100%;
+}
+
+.date1 {
+    display: inline-block;
+    width: 10%;
+    margin-left: 50px;
+}
+
+.date2 {
+    display: inline-block;
+    width: 10%;
+    margin-left: 50px;
+}
+
+.date3 {
+    display: inline-block;
+    width: 45%;
+    border-bottom: 1px solid black;
+    margin-right: 50px;
+    margin-left: 0px;
+}
+
+.date4 {
+    display: inline-block;
+    width: 15%;
+    border-bottom: 1px solid black;
+}
+
+division {
+    width: 80%;
+    margin-right: 50px;
+}
+
+.division1 {
+    width: 3%;
+    border: 1px solid black;
+    float: right;
+    text-align: center;
+    display: inline;
+}
+
+.division2 {
+    width: 3%;
+    border: 1px solid black;
+    float: right;
+    text-align: center;
+}
+
+.division3 {
+    width: 3%;
+    border: 1px solid black;
+    float: right;
+    text-align: center;
+}
+
+.division4 {
+    width: 3%;
+    border: 1px solid black;
+    float: right;
+    text-align: center;
+}
+
+.division5 {
+    width: 3%;
+    border: 1px solid black;
+    float: right;
+    text-align: center;
+}
